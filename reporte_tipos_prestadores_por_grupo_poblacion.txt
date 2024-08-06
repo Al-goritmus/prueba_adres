@@ -1,0 +1,16 @@
+Reporte de Porcentaje de Tipos de Prestadores por Grupo de Población: 
+ <50k Profesional Independiente 70.34%, Instituciones Prestadoras de Servicios de Salud - IPS 26.07%, Objeto Social Diferente a la Prestación de Servicios de Salud 2.53%, Transporte Especial de Pacientes 1.06% 
+
+
+Reporte de Porcentaje de Tipos de Prestadores por Grupo de Población: 
+ 50k-500k Profesional Independiente 74.19%, Instituciones Prestadoras de Servicios de Salud - IPS 21.64%, Objeto Social Diferente a la Prestación de Servicios de Salud 3.10%, Transporte Especial de Pacientes 1.07% 
+
+
+Reporte de Porcentaje de Tipos de Prestadores por Grupo de Población: 
+ 500k-1M Profesional Independiente 69.89%, Instituciones Prestadoras de Servicios de Salud - IPS 26.54%, Objeto Social Diferente a la Prestación de Servicios de Salud 2.78%, Transporte Especial de Pacientes 0.79% 
+
+
+Reporte de Porcentaje de Tipos de Prestadores por Grupo de Población: 
+ >1M Profesional Independiente 88.44%, Instituciones Prestadoras de Servicios de Salud - IPS 8.52%, Objeto Social Diferente a la Prestación de Servicios de Salud 2.81%, Transporte Especial de Pacientes 0.23% 
+
+
