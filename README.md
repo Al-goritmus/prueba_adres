@@ -19,9 +19,7 @@ La prueba ha sido desarrollada completamente en R y SQL, cumpliendo con las sigu
   Se ha seguido las indicaciones y se ha cumplido con todos los requisitos establecidos.
   Estructura del Repositorio
 
-/src: Contiene todo el código fuente en R y SQL. first_script.R es script principal de análisi de datos.
-
-/results: Resultados de los análisis realizados.
+Ejecutar main_script.R en Rstudio ajustando el PATH a la ubicación local de los archivos que hayas dispuesto
 
 README.md: Este archivo con las instrucciones y consideraciones de la prueba técnica.
 
@@ -32,7 +30,6 @@ RStudio
 SQLite
 Paquetes de R: DBI, RSQLite, ggplot2, dplyr, tidyr
 Instalación de Paquetes en R
-Copiar código
 install.packages(c("DBI", "RSQLite", "ggplot2", "dplyr", "tidyr"))
 Cargar la Base de Datos en SQLite
 Cargar las bases de datos compartidas en SQLite utilizando el siguiente script:
