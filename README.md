@@ -10,16 +10,10 @@ La prueba ha sido desarrollada completamente en R y SQL, cumpliendo con las sigu
   Todo el código fuente está escrito en R y SQL.
 # Repositorio en GitHub: 
   Todos los archivos relevantes se encuentran en este repositorio.
-# Comentarios en el código: 
-  Se han añadido comentarios en el código para facilitar la comprensión del enfoque y lógica de solución.
-# Evaluación: 
-  La solución será evaluada en base a la calidad, eficiencia del código, estructura, legibilidad y capacidad   
-  para abordar el problema.
-# Habilidades: 
-  Se ha seguido las indicaciones y se ha cumplido con todos los requisitos establecidos.
-  Estructura del Repositorio
 
-Ejecutar main_script.R en Rstudio ajustando el PATH a la ubicación local de los archivos que hayas dispuesto
+
+# Ejecutar 
+main_script.R en Rstudio ajustando el PATH a la ubicación local de los archivos que hayas dispuesto
 
 README.md: Este archivo con las instrucciones y consideraciones de la prueba técnica.
 
@@ -28,11 +22,16 @@ Prerrequisitos
 R (versión 4.0 o superior)
 RStudio
 SQLite
+
 Paquetes de R: DBI, RSQLite, ggplot2, dplyr, tidyr
+
 Instalación de Paquetes en R
+
 install.packages(c("DBI", "RSQLite", "ggplot2", "dplyr", "tidyr"))
+
 Cargar la Base de Datos en SQLite
-Cargar las bases de datos compartidas en SQLite utilizando el siguiente script:
+
+Se cargaron las bases de datos compartidas en SQLite utilizando el siguiente formato:
 
 
 # Conectar a SQLite
@@ -70,13 +69,14 @@ library(stringi)
 summary(result)
 
 # Ejemplo de visualización
+
 ggplot(result, aes(x = column1, y = column2)) +
   geom_point() +
   labs(title = "Título del Gráfico", x = "Eje X", y = "Eje Y")
   
 Resultados
 
-Los resultados de los análisis han sido presentados en un boletín de Word de dos páginas. Además, se ha grabado un video de máximo 3 minutos explicando los resultados obtenidos.
+Los resultados de los análisis han sido presentados en un boletín de Word de dos páginas. Además, se ha grabado un video de máximo 3 minutos explicando los resultados obtenidos que se enviará vía correo electrónico.
 
 Contacto
 Para cualquier duda o consulta, por favor contacta a mend2atipob@gmail.com.  
