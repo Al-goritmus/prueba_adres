@@ -19,8 +19,8 @@ La prueba ha sido desarrollada completamente en R y SQL, cumpliendo con las sigu
   Se ha seguido las indicaciones y se ha cumplido con todos los requisitos establecidos.
   Estructura del Repositorio
 
-/src: Contiene todo el código fuente en R y SQL.
-/docs: Documentación adicional.
+/src: Contiene todo el código fuente en R y SQL. first_script.R es script principal de análisi de datos.
+
 /results: Resultados de los análisis realizados.
 
 README.md: Este archivo con las instrucciones y consideraciones de la prueba técnica.
